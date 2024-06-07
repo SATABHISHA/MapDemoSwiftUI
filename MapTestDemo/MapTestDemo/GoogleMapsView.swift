@@ -18,6 +18,7 @@ struct GoogleMapsView: UIViewRepresentable {
         return mapView
     }
     
+    
     func updateUIView(_ mapView: GMSMapView, context: Context) {
         
     }
